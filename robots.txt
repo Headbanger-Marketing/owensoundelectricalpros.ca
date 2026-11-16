@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://owensoundelectricalpros.ca/sitemap-index.xml
